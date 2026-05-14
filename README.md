@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaquin</h1>
-<h3 align="center">A student at UCF(University of Central Florida)</h3>
 
-- 🔭 I’m currently working on **my personal webpage**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **mobile apps**
-
-- 💬 Ask me about **Java and C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
